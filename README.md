@@ -2,8 +2,6 @@
 
 # Pods
 
-**华为 Mate 60 Pro / HarmonyOS 4.x 上的 AirPods 状态与聆听模式管理**
-
 [![License](https://img.shields.io/badge/License-GPL--3.0--or--later-blue.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-9%2B-green.svg)](#-构建)
 [![HarmonyOS](https://img.shields.io/badge/HarmonyOS-4.x-red.svg)](#%EF%B8%8F-兼容性与已知限制)
